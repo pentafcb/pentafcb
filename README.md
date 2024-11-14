@@ -11,7 +11,6 @@
 
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php)
 ![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
@@ -20,7 +19,6 @@
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![esx](https://img.shields.io/badge/esx-black?style=flat-square&logo=fivem&logoColor=1572B6)
-![discord](https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### DevOps & Tools
@@ -30,7 +28,6 @@
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
-![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 
 ## ⚡ GitHub Stats

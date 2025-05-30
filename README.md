@@ -16,7 +16,7 @@
 
 ### Technologies & Frameworks
 
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=1572B6)
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![esx](https://img.shields.io/badge/esx-black?style=flat-square&logo=fivem&logoColor=1572B6)

@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/syn1xx?tab=repositories&sort=stargazers">
-  <a href="https://github.com/syn1xx/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=syn1xx&style=for-the-badge&color=lightgrey"/></a>
-</p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ## Syn Wallet — main project
 
 <p align="center">
@@ -19,6 +11,14 @@
 Solana · EVM · Bitcoin · Sui · Aptos · XRP · Cosmos — swaps, staking, NFTs, native Hyperliquid perps, Polymarket and Binance bStocks, all in one wallet.
 
 [Repository](https://github.com/pentafcb/Syn-Wallet) · [v1.0.0 release](https://github.com/pentafcb/Syn-Wallet/releases/tag/v1.0.0) · GNU GPL v3.0
+
+<p align="center">
+  <a href="https://github.com/syn1xx?tab=repositories&sort=stargazers">
+  <a href="https://github.com/syn1xx/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=syn1xx&style=for-the-badge&color=lightgrey"/></a>
+</p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 🚀 Technologies & Tools
 ### Languages

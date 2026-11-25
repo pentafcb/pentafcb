@@ -6,6 +6,20 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+## Syn Wallet — main project
+
+<p align="center">
+  <a href="https://github.com/pentafcb/Syn-Wallet">
+    <img src="https://r2.fivemanage.com/WD0UYkJxI50yH1OBccdt2/gitbanner.png" alt="Syn Wallet" width="100%" />
+  </a>
+</p>
+
+**[Syn Wallet](https://github.com/pentafcb/Syn-Wallet)** is a non-custodial, phone-first web crypto wallet. Keys are generated and encrypted locally in your browser — the server never sees a seed phrase or a private key.
+
+Solana · EVM · Bitcoin · Sui · Aptos · XRP · Cosmos — swaps, staking, NFTs, native Hyperliquid perps, Polymarket and Binance bStocks, all in one wallet.
+
+[Repository](https://github.com/pentafcb/Syn-Wallet) · [v1.0.0 release](https://github.com/pentafcb/Syn-Wallet/releases/tag/v1.0.0) · GNU GPL v3.0
+
 ## 🚀 Technologies & Tools
 ### Languages
 
@@ -36,23 +50,3 @@
 <p align="center">
     <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=syn1xx&hide_border=true&theme=dark" />
     <img height="124px" src="https://github-readme-stats.vercel.app/api?username=uhmpasterig&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-
-<p align="center">
-  <a href="https://github.com/pentafcb/Syn-Wallet">
-    <img src="https://r2.fivemanage.com/WD0UYkJxI50yH1OBccdt2/gitbanner.png" alt="Syn Wallet" width="100%" />
-  </a>
-</p>
-
-<h2>Syn Wallet — main project</h2>
-
-<p><b><a href="https://github.com/pentafcb/Syn-Wallet">Syn Wallet</a></b> is a non-custodial, phone-first web crypto wallet. Keys are generated and encrypted locally in your browser — the server never sees a seed phrase or a private key.</p>
-
-<p>Solana · EVM · Bitcoin · Sui · Aptos · XRP · Cosmos — swaps, staking, NFTs, native Hyperliquid perps, Polymarket and Binance bStocks, all in one wallet.</p>
-
-<p>
-  <a href="https://github.com/pentafcb/Syn-Wallet"><b>Repository</b></a> ·
-  <a href="https://github.com/pentafcb/Syn-Wallet/releases/tag/v1.0.0"><b>v1.0.0 release</b></a> ·
-  GNU GPL v3.0
-</p>
-
-<hr/>
